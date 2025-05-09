@@ -1,0 +1,6 @@
+pyyaml
+tls_client
+httpx
+colorama
+secrets
+kopeechka
